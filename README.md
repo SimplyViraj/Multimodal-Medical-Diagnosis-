@@ -30,3 +30,6 @@ to language healthcare AI systems.
 for multimodal thoracic diseased classification within vision
 to language healthcare AI systems.
 Index Terms—multimodal learning;
+
+<img width="1536" height="1024" alt="ChatGPT Image May 5, 2026, 09_50_57 AM" src="https://github.com/user-attachments/assets/7a8ddae5-358a-400d-afe7-124f6b7979d3" />
+
